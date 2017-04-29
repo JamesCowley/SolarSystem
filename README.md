@@ -23,4 +23,4 @@ I expanded on these with:
 
 ### Running it
 
-The main method is in `SolarSystem.java`, so either test run that in [your IDE](https://eclipse.org/), or compile all three source files into a `.jar` and open that. Alternatively, I've included a pre-compiled version, `Solar.jar`, if you want to download and run a program you can't verify isn't malware. It's not malware, but it *is* an option.
+The main method is in `SolarSystem.java`, so either test run that in [your IDE](https://eclipse.org/), or compile all three source files into a `.jar` and run that.
