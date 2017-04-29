@@ -19,7 +19,7 @@ I expanded on these with:
 
 * All planets + some comets, asteroids and [dwarf planets](http://i.imgur.com/aAt54Nm.jpg)
 
-* Sliders to adjust the relative speed and scale of the model.
+* Sliders to adjust the relative speed and scale of the model
 
 ### Running it
 
