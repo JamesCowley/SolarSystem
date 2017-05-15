@@ -1,4 +1,4 @@
-package module8;
+package SolarGUI;
 
 import java.util.ArrayList;
 

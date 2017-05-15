@@ -23,4 +23,18 @@ I expanded on these with:
 
 ### Running it
 
-The main method is in `SolarSystem.java`, so either test run that in [your IDE](https://eclipse.org/), or compile all three source files into a `.jar` and run that.
+You'll need the JDK (Java Development Kit) from [Oracle](http://www.oracle.com). From the command line, do
+
+`javac SolarGUI/*java`
+
+to compile. To run the compiled program do
+
+`java SolarGUI.SolarSystem`
+
+Alternatively, you can compile to an executable called `Solar.jar` which you can "[run anywhere](https://en.wikipedia.org/wiki/Write_once,_run_anywhere)" by doing
+
+`jar cfm Solar.jar MANIFEST.MF SolarGUI/*.class`
+
+This can be run from the command line with
+
+`java -jar Solar.jar`
