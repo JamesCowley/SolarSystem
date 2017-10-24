@@ -1,8 +1,7 @@
 # Java GUI test
 
 ### Background
-Created in year 2 of undergrad physics. The project's main purpose was to learn how to build a basic GUI in Java.
-
+Created in year 3 of undergrad physics. The project's main purpose was to learn how to build a basic GUI in Java.
 
 ### Requirements
 The project's minimum requirements were:
