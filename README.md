@@ -1,7 +1,7 @@
 # Java GUI test
 
 ### Background
-Created in year 2 of my MSci Theoretical Physics course at UCL (date ~ March 2014). The project's main purpose was to learn how to build a basic GUI in Java.
+Created in year 2 of undergrad physics. The project's main purpose was to learn how to build a basic GUI in Java.
 
 
 ### Requirements
