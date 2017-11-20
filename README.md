@@ -1,6 +1,6 @@
 # Java GUI test
 
-![Solar sim](solar.jpg?raw=true "solar-system-simulator")
+![Solar sim](./solar.JPG?raw=true)
 
 ### Background
 Created in year 3 of undergrad physics. The project's main purpose was to learn how to build a basic GUI in Java.
