@@ -1,5 +1,7 @@
 # Java GUI test
 
+![Alt text](/solar.jpg?raw=true "solar-system-simulator-screen-shotsssssss")
+
 ### Background
 Created in year 3 of undergrad physics. The project's main purpose was to learn how to build a basic GUI in Java.
 
