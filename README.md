@@ -1,4 +1,4 @@
-# Java GUI test
+# Solar system simulation in Java
 
 ![Preview](./solar.png?raw=true)
 
