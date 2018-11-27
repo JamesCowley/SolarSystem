@@ -1,7 +1,14 @@
 # Solar system simulation in Java
 
 ![Preview](./solar.png?raw=true)
-
+<embed 
+id="solarjar"
+type="application/x-java-applet;version=1.6"
+width="999" height="999" 
+archive="solar.jar"
+code="Bar.class"
+pluginspage="http://java.com/download/"
+myParam="YourParams" />
 ### Background
 Created in year 3 of undergrad physics. The project's main purpose was to learn how to build a basic GUI in Java.
 
