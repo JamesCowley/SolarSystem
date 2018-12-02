@@ -32,10 +32,12 @@ To run the compiled program do
 
 `java SolarGUI.SolarSystem`
 
-Alternatively, you can compile to an executable called `Solar.jar` (which you can "[run anywhere](https://en.wikipedia.org/wiki/Write_once,_run_anywhere)") by doing
+Alternatively, you can compile to an executable called `solar.jar` (which you can "[run anywhere](https://en.wikipedia.org/wiki/Write_once,_run_anywhere)") by doing
 
-`jar cfm Solar.jar MANIFEST.MF SolarGUI/*.class`
+`jar cfm solar.jar MANIFEST.MF SolarGUI/*.class`
 
 This can then be run from the command line with
 
-`java -jar Solar.jar`
+`java -jar solar.jar`
+
+Alternatively, if you don't care about security and want to run an unknown executable on your computer because you trust me, just run the included `solar.jar` file that's included in this repo.
