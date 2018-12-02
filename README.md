@@ -40,4 +40,6 @@ This can then be run from the command line with
 
 `java -jar solar.jar`
 
-Alternatively, if you don't care about security and want to run an unknown executable on your computer because you trust me, just run the included `solar.jar` file that's included in this repo.
+### Alternatively
+
+If you don't care about security and want to run an unknown executable on your computer because you trust me, just run the `solar.jar` file that I already compiled and included in this repo.
